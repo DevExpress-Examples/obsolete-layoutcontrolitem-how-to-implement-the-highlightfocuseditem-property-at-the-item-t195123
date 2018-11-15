@@ -1,3 +1,14 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomLayoutConrol.cs](./CS/dxSample/Custom Layout Control/CustomLayoutConrol.cs) (VB: [CustomLayoutConrol.vb](./VB/dxSample/Custom Layout Control/CustomLayoutConrol.vb))
+* [CustomLayoutControlImplementor.cs](./CS/dxSample/Custom Layout Control/CustomLayoutControlImplementor.cs) (VB: [CustomLayoutControlImplementor.vb](./VB/dxSample/Custom Layout Control/CustomLayoutControlImplementor.vb))
+* [CustomLayoutControlItem.cs](./CS/dxSample/Custom Layout Control/CustomLayoutControlItem.cs) (VB: [CustomLayoutControlItem.vb](./VB/dxSample/Custom Layout Control/CustomLayoutControlItem.vb))
+* **[CustomLayoutControlItemSkinPainter.cs](./CS/dxSample/Custom Layout Control/CustomLayoutControlItemSkinPainter.cs) (VB: [CustomLayoutControlItemSkinPainter.vb](./VB/dxSample/Custom Layout Control/CustomLayoutControlItemSkinPainter.vb))**
+* [CustomLayoutSkinPaintStyle.cs](./CS/dxSample/Custom Layout Control/CustomLayoutSkinPaintStyle.cs) (VB: [CustomLayoutSkinPaintStyle.vb](./VB/dxSample/Custom Layout Control/CustomLayoutSkinPaintStyle.vb))
+* [Form1.cs](./CS/dxSample/Form1.cs) (VB: [Form1.vb](./VB/dxSample/Form1.vb))
+* [Program.cs](./CS/dxSample/Program.cs) (VB: [Program.vb](./VB/dxSample/Program.vb))
+<!-- default file list end -->
 # OBSOLETE: LayoutControlItem - How to implement the HighlightFocusedItem property at the item level
 
 
